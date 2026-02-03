@@ -1,0 +1,38 @@
+#about-me{
+    padding: 10px;
+    background-color:brown;
+    color: ghostwhite;
+}
+
+#fio p{
+    padding: 30px;
+    margin: 30px;
+    border-left: 5px solid brown;
+    background-color: rgb(197, 193, 193);
+}
+#fio p {
+    font-family: 'Times New Roman';
+    color: #444;
+    font-weight: bold;
+}
+#fio p1{
+    background-color: rgb(161, 50, 22);
+    font-weight:lighter;
+    color: ghostwhite;
+    font-size: 20px;
+}
+#Kontackt{
+    background-color: rgb(161, 50, 22);
+    font-weight:lighter;
+    color: ghostwhite;
+    font-size: 20px;
+    border-left: 5px solid brown;
+    background-color: rgb(197, 193, 193);
+    color: #444;
+}
+#Glyshniak img {
+    width: 50%;
+    max-width: 500px;
+    height: auto;
+    margin: 20px auto;
+}
