@@ -68,3 +68,22 @@ aside{
     border-radius: 6px;
     border: 1px solid #d0d0d0;
 }
+
+button {
+    background: #2a6df4;
+    color: white;
+    border: none;
+    padding: 8px 20px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+button:hover {
+    opacity: 0.85;
+}
+blockquote {
+    border-left: 4px solid #2a6df4;
+    padding-left: 10px;
+    margin: 10px 0;
+    font-style: italic;
+}
