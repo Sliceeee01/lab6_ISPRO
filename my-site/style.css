@@ -102,3 +102,17 @@ select{
     padding: 6px;
     margin-top: 4px;
 }
+
+video {
+    display: block;
+    background: #333;
+    min-height: 200px;
+}
+audio{
+    width: 100%;
+    margin: 15px 0;
+}
+iframe{
+    border: 1px solid #2a6df4;
+    background: #d0d0d0;
+}
